@@ -1,0 +1,1 @@
+# nginx_test_with_puppet
